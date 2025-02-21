@@ -1,12 +1,3 @@
----
-title: "Fine-tuning LLaMA 2 with QLoRA"
-subtitle: "A comprehensive guide to fine-tuning LLaMA 2 using Quantized LoRA"
-description: "Learn how to efficiently fine-tune the LLaMA 2 language model using QLoRA (Quantized Low-Rank Adaptation) technique with detailed parameter explanations and step-by-step implementation."
-date: "2024-03-21"
-tags: ["LLaMA", "Fine-tuning", "QLoRA", "NLP", "Machine Learning"]
----
-
-
 # Fine-tuning LLaMA 2 with QLoRA
 
 ## Introduction
